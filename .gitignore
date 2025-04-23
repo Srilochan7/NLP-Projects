@@ -1,0 +1,12 @@
+# Jupyter Notebook checkpoints
+.ipynb_checkpoints/
+*/.ipynb_checkpoints/*
+
+# Model checkpoints
+checkpoints/
+*/checkpoints/*
+*.ckpt
+*.pth
+*.h5
+*.hdf5
+*.pt
